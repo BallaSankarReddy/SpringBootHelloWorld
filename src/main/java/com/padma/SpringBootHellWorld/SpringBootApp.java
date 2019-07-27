@@ -8,7 +8,6 @@ import org.springframework.context.annotation.ComponentScan;
 public class SpringBootApp {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub {
 		SpringApplication.run(SpringBootApp.class, args);
 	}
 
